@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="&apos;application-production.properties&apos; を &apos;resources&apos; に移動" description="&apos;application-production.properties&apos; を &apos;resources&apos; に移動" destination="src/main/resources" element1="application-production.properties" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1705140120317" updateReferences="true"/>
+</session>
